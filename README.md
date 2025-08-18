@@ -46,8 +46,7 @@ Built software to generate 3D models from image sets using visual geometry techn
 ---
 
 ## 🌍 Let's Connect
-
-📫 [harry.braganza6@gmail.com](mailto:harrybraganza6@gmail.com)  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/harry-braganza/)  
 🐍 [GitHub](https://github.com/Hbraganza)
 
