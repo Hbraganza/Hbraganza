@@ -1,7 +1,59 @@
-- 👋 Hi, I’m @HBraganza
-- 👀 I’m interested in Data, Stocks, Mechanical Engineering, AI and how to combine these.
-- 🌱 I’m currently studying robotics at King's College London. I plan to learn more about AI and Machine learning. I will continue to tamper more with my stock data project when ready.
-- This is my portfolio and the real time evolution of my coding abilities and experiments.
+# 👋 Hi, I’m Harry Braganza
+
+🎓 MSc Robotics - King’s College London - 2025
+🎓 BSc Physics - Keele University - 2022
+🧠 Specialising in: Computer Vision, Robot Kinematics, AI/ML  
+🛠️ Industry Experience: Optical Systems | Powerline Robotics | Technical Sales
+
+---
+
+## 🧩 Projects
+
+### 🧠 Engagement Estimation System
+Semi-supervised learning pipeline using LSTM to monitor human task collaboration  
+**Tech:** Python, OpenCV, scikit-learn, PyTorch  
+[🔗 Repo Coming Soon]
+
+---
+
+### 📸 3D Reconstruction from 2D Images
+Built software to generate 3D models from image sets using visual geometry techniques  
+**Focus:** Image feature extraction, voxel grid refinement, patch-based inference  
+[🔗 Repo Coming Soon]
+
+---
+
+## 🧪 Technical Skills
+
+- **Languages:** Python, MATLAB, LaTeX  
+- **Frameworks & Tools:** OpenCV, PyTorch, ROS, Git, scikit-learn  
+- **CAD/Design:** SolidWorks, Fusion 360  
+- **OS/Platforms:** Linux (Preferred), Windows  
+- **Soft Skills:** Project leadership, customer engagement, field repair
+
+---
+
+## 💼 Previous Experience
+
+**Technical Sales Engineer** – Santec (Oxford, 2024)  
+- Provided client-facing support, software calibration, and international sales
+
+**Engineer** – XYTECS (Guildford, 2022–2023)  
+- Led NDT and corrosion modelling projects on robotic powerline systems
+- Improved data processing and report creation from 2 days to half a day  
+- Maintained Python codebase and trained junior engineers
+
+---
+
+## 🌍 Let's Connect
+
+📫 [harry.braganza6@gmail.com](mailto:harrybraganza6@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harry-braganza/)  
+🐍 [GitHub](https://github.com/Hbraganza)
+
+---
+
+🚀 **Open to opportunities across all industries, including robotics, computer vision, AI/ML, finance, and mechanical engineering, worldwide!**
 <!---
 Crazyhjb/Crazyhjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
