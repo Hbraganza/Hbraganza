@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Harry Braganza
 
-🎓 MSc Robotics - King’s College London - 2025
-🎓 BSc Physics - Keele University - 2022
-🧠 Specialising in: Computer Vision, Robot Kinematics, AI/ML  
+🎓 MSc Robotics - King’s College London - 2025 <br>
+🎓 BSc Physics - Keele University - 2022 <br>
+🧠 Specialising in: Computer Vision, Robot Kinematics, AI/ML <br> 
 🛠️ Industry Experience: Optical Systems | Powerline Robotics | Technical Sales
 
 ---
