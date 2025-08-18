@@ -11,7 +11,7 @@
 ### 🧠 Engagement Estimation System
 Semi-supervised learning pipeline using LSTM to monitor human task collaboration  
 **Tech:** Python, OpenCV, scikit-learn, PyTorch  
-[🔗 Repo Coming Soon]
+[🔗 [Engagement Estimation Repository](https://github.com/Hbraganza/Human-Engagement-LSTM)]
 
 ---
 
