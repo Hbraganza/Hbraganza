@@ -24,7 +24,7 @@ Built software to generate 3D models from image sets using visual geometry techn
 
 ## 🧪 Technical Skills
 
-- **Languages:** Python, MATLAB, LaTeX  
+- **Languages:** Python, LaTeX  
 - **Frameworks & Tools:** OpenCV, PyTorch, ROS, Git, scikit-learn  
 - **CAD/Design:** SolidWorks, Fusion 360  
 - **OS/Platforms:** Linux (Preferred), Windows  
