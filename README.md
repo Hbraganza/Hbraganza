@@ -18,7 +18,7 @@ Semi-supervised learning pipeline using LSTM to monitor human task collaboration
 ### 📸 3D Reconstruction from 2D Images
 Built software to generate 3D models from image sets using visual geometry techniques  
 **Focus:** Image feature extraction, Feature matching  
-[🔗 [3D reconstruction with SIFT](https://github.com/Hbraganza/3D-Reconstruction-with-SIFT)]
+[🔗 [3D Reconstruction With SIFT](https://github.com/Hbraganza/3D-Reconstruction-with-SIFT)]
 
 ---
 
